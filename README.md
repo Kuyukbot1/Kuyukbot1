@@ -69,8 +69,8 @@
 ### 📊 Statistik (otomatis update)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuyukbot1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuyukbot1&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kuyukbot1&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kuyukbot1&theme=radical" alt="Top languages" />
 </div>
 
 <div align="center">
@@ -85,9 +85,9 @@
   <img src="https://raw.githubusercontent.com/Kuyukbot1/Kuyukbot1/output/github-contribution-grid-snake.svg" alt="Contribution snake (animated)" />
 </div>
 
-> Animasi ular di atas muncul setelah kamu menambahkan workflow `snakes` di repo `Kuyukbot1`:
-> `.github/workflows/snake.yml` memakai `Platane/snk` dengan output ke branch `output`.
-> Kalau belum ditambahkan, bagian ini akan kosong — profil tetap jalan normal.
+> Animasi ular di atas dibuat oleh workflow `.github/workflows/snake.yml` di repo
+> `Kuyukbot1` (memakai `Platane/snk`, output ke branch `output`). Ular muncul
+> setelah workflow jalan pertama kali — beberapa menit setelah file ini di-upload.
 
 ---
 
